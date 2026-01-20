@@ -12,6 +12,7 @@ What I work on:
 Selected projects:
 * Culture Monitoring System – turning large scale qualitative data into measurable organizational signals
 * Nairobi Air Quality Pipeline – an automated data pipeline for monitoring environmental conditions
+* Backend API for inventory management with validation, audit logging, and PostgreSQL storage.
 
 I’m especially interested in work that sits at the intersection of data, decision making, and real world impact.
 
