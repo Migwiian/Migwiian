@@ -10,7 +10,8 @@ What I work on:
 * Analytical and machine learning projects built end to end
 
 Selected projects:
-* Culture Monitoring System – turning large scale qualitative data into measurable organizational signals
+* Culture Monitoring System – end to end Machine Learning Pipeline that took over 800k employee records and used them to predict employee attrition
+* Kestra-Snowflake-Pipeline - end to end DE Data Pipeline that automatically loaded Olist dataset(9 files) on Snowflake for transformation using Kestra for orchestration
 * Nairobi Air Quality Pipeline – an automated data pipeline for monitoring environmental conditions
 * Backend API for inventory management with validation, audit logging, and PostgreSQL storage.
 
