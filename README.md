@@ -11,7 +11,7 @@ What I work on:
 
 Selected projects:
 * Culture Monitoring System – end to end Machine Learning Pipeline that took over 800k employee records and used them to predict employee attrition
-* Term-deposit-predictor - created a Linear Regression model from the UCI Bank Marketing dataset that determined whether a client subscribed to a term deposit
+* Term-deposit-predictor - end‑to‑end ML system for term‑deposit targeting using the UCI Bank Marketing dataset, including model training, a FastAPI prediction service, and a Streamlit UI.
 * Kestra-Snowflake-Pipeline - end to end DE Data Pipeline that automatically loaded Olist dataset(9 files) on Snowflake for transformation using Kestra for orchestration
 * Nairobi Air Quality Pipeline – an automated data pipeline for monitoring environmental conditions
 * Backend API for inventory management with validation, audit logging, and PostgreSQL storage.
